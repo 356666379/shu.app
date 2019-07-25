@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://iosapps.itunes.apple.com/itunes-assets/Purple113/v4/bb/04/d0/bb04d05a-aad3-3e13-6df6-9f17ed5deee6/pre-thinned8762146554688252050.thinned.signed.dpkg.ipa?accessKey=1564080953_2549896618043898233_N1T%2BG8HkUunGy5oO86oxveusf8j16qsbBcLAUS2hvmMyHaFdQT38GURaHJoea9ZcRYOn5LJZIMrQydqCnxzmVSarSBmPEOoRWHpjeOnV%2B76VewC1qssbUTc3YRqog8T7gax9vBf7JtJDNqJPG6F4k8LGlvmdDhICaoM51vi2S%2BfUNA6Zz171chiXbWCFXqbJjf1CNzQTxValyPm4rXXZ0Q%3D%3D</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://x5.justep.com/apps/x5.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://x5.justep.com/apps/x5.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.justep.x5.demo</string>
+				<key>bundle-version</key>
+				<string>5.3.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>shu</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
